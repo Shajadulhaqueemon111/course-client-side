@@ -1,0 +1,144 @@
+[
+    {  
+        "course_name": "Introduction to Data Science",
+        "image":"https://i.ibb.co/xCL8fk6/1687705737633.jpg",
+        "instructor_name": "Dr. Sarah Johnson",
+        "description": "This course provides an introduction to the fundamental concepts and techniques of data science.",
+        "enrollment_status": "Open",
+        "course_duration": "10 weeks",
+        "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+        "location": "123 Main Street, City, Country",
+        "prerequisites": ["Basic knowledge of Python", "Understanding of statistics"],
+        "syllabus": {
+          "week_1": "Introduction to Data Science",
+          "week_2": "Data Wrangling and Cleaning",
+          "week_3": "Exploratory Data Analysis",
+          "week_4": "Introduction to Machine Learning",
+          "week_5": "Supervised Learning",
+          "week_6": "Unsupervised Learning",
+          "week_7": "Model Evaluation and Validation",
+          "week_8": "Feature Engineering",
+          "week_9": "Big Data and Distributed Computing",
+          "week_10": "Final Project Presentation"
+        }
+      },
+      {
+       
+        "course_name": "Advanced Web Development",
+        "instructor_name": "Dr. Mark Johnson",
+        "image":"https://i.ibb.co/yYFFmxN/360-F-214539232-Yn-Urtuw-UEt84g-Hu-U0q-G8l7-Ow-Zv-H4rn-PG.jpg",
+        "description": "This course covers advanced topics in web development, including frameworks, APIs, and server-side scripting.",
+        "enrollment_status": "Open",
+        "course_duration": "12 weeks",
+        "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+        "location": "456 Oak Street, City, Country",
+        "prerequisites": ["Proficiency in HTML, CSS, and JavaScript", "Familiarity with web development basics"],
+        "syllabus": {
+          "week_1": "Introduction to Web Frameworks",
+          "week_2": "Frontend Frameworks: React.js",
+          "week_3": "Backend Frameworks: Node.js and Express.js",
+          "week_4": "Database Integration with MongoDB",
+          "week_5": "RESTful APIs Development",
+          "week_6": "Authentication and Authorization",
+          "week_7": "Deployment and DevOps",
+          "week_8": "Websockets and Real-time Communication",
+          "week_9": "GraphQL and Alternative APIs",
+          "week_10": "Serverless Architecture with AWS Lambda",
+          "week_11": "Testing and Debugging Strategies",
+          "week_12": "Final Project Presentation"
+        }
+      },
+      { 
+        "course_name": "Machine Learning",
+        "instructor_name": "Dr. Emily Smith",
+        "image":"https://i.ibb.co/Rj4WRsZ/1-c-fi-B-Ygbn-Ml6nnt-YGBMHQ.jpg",
+        "description": "This course provides a comprehensive introduction to machine learning, covering basic concepts, algorithms, and applications.",
+        "enrollment_status": "Open",
+        "course_duration": "8 weeks",
+        "schedule": "Mondays and Wednesdays, 5:00 PM - 7:00 PM",
+        "location": "789 Elm Avenue, City, Country",
+        "prerequisites": ["Basic knowledge of Python programming", "Understanding of linear algebra and calculus"],
+        "syllabus": {
+          "week_1": "Introduction to Machine Learning",
+          "week_2": "Supervised Learning: Regression",
+          "week_3": "Supervised Learning: Classification",
+          "week_4": "Unsupervised Learning: Clustering",
+          "week_5": "Dimensionality Reduction",
+          "week_6": "Model Evaluation and Validation",
+          "week_7": "Feature Engineering",
+          "week_8": "Advanced Topics and Applications",
+          "week_9": "Final Project Presentation"
+        }
+      },
+      {  
+        "course_name": "Introduction to Python Programming",
+        "instructor_name": "Professor John Doe",
+        "image":"https://i.ibb.co/gyG4nTj/shutterstock-1329434768-bf9003ea47.jpg",
+        "description": "This course is designed for beginners who want to learn Python programming from scratch.",
+        "enrollment_status": "Open",
+        "course_duration": "10 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+        "location": "123 Main Street, City, Country",
+        "prerequisites": ["None"],
+        "syllabus": {
+          "week_1": "Introduction to Python",
+          "week_2": "Variables and Data Types",
+          "week_3": "Control Flow: If, Else, and Loops",
+          "week_4": "Functions and Modules",
+          "week_5": "Data Structures: Lists and Tuples",
+          "week_6": "Data Structures: Dictionaries and Sets",
+          "week_7": "File Handling",
+          "week_8": "Error Handling and Debugging",
+          "week_9": "Introduction to Object-Oriented Programming",
+          "week_10": "Final Project Presentation"
+        }
+      },
+      {  
+        "course_name": "Introduction to Artificial Intelligence",
+        "instructor_name": "Dr. Samantha Lee",
+        "image":"https://i.ibb.co/rMNMSgd/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-cen.jpg",
+        "description": "This course provides an introduction to the core concepts and techniques of artificial intelligence.",
+        "enrollment_status": "Open",
+        "course_duration": "12 weeks",
+        "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+        "location": "789 Oak Street, City, Country",
+        "prerequisites": ["Basic knowledge of programming", "Familiarity with mathematics, including linear algebra and calculus"],
+        "syllabus": {
+          "week_1": "Introduction to Artificial Intelligence",
+          "week_2": "Problem Solving using Search Algorithms",
+          "week_3": "Knowledge Representation and Reasoning",
+          "week_4": "Machine Learning Basics",
+          "week_5": "Supervised Learning",
+          "week_6": "Unsupervised Learning",
+          "week_7": "Neural Networks and Deep Learning",
+          "week_8": "Natural Language Processing",
+          "week_9": "Computer Vision",
+          "week_10": "Reinforcement Learning",
+          "week_11": "AI Ethics and Social Implications",
+          "week_12": "Final Project Presentation"
+        }
+      },
+      { 
+        "course_name": "Digital Marketing Fundamentals",
+        "instructor_name": "Dr. Sarah Johnson",
+        "image":"https://i.ibb.co/M1ZVDMC/strategi-digital-marketing.jpg",
+        "description": "This course provides a comprehensive overview of digital marketing strategies and techniques.",
+        "enrollment_status": "Open",
+        "course_duration": "8 weeks",
+        "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+        "location": "456 Elm Street, City, Country",
+        "prerequisites": ["Basic understanding of marketing principles", "Familiarity with the internet and social media platforms"],
+        "syllabus": {
+          "week_1": "Introduction to Digital Marketing",
+          "week_2": "Website Optimization and SEO",
+          "week_3": "Content Marketing",
+          "week_4": "Social Media Marketing",
+          "week_5": "Email Marketing",
+          "week_6": "Pay-Per-Click (PPC) Advertising",
+          "week_7": "Display Advertising",
+          "week_8": "Analytics and Performance Tracking",
+          "week_9": "Final Project Presentation"
+        }
+      }
+      
+]
