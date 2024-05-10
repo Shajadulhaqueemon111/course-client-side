@@ -7,7 +7,7 @@ const CourseList = () => {
 
     useEffect(()=>{
 
-        fetch('http://localhost:5000/course')
+        fetch('https://course-server-side-lyart.vercel.app/course')
         .then((res)=>res.json())
         .then((data)=>setCourse(data))
     },[])
